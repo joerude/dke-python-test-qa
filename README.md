@@ -6,8 +6,10 @@ _Всего было 100 вопросов и давалось 90 минут._
 
 * [Python](#Python)
 * [Django](#Django)
-* [Базы данных](#базы-данных)
 * [Kubernetes and Docker](#kubernetes--docker)
+* [Базы данных](#базы-данных)
+* [UI/UX design](#uiux-интерфейсы)
+* [Cети(IP, TCP, HTTP, etc.](#сети-ip-http-tcp-etc)
 * [CSS/JS](#cssjsdom)
 * [Рефактринг, оптимзация](#рефактринг-оптимзация)
 
