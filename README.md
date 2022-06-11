@@ -142,10 +142,12 @@ obj_b = obj_a.copy()
 1. [ ] Можно использовать такой код: `import coolApi`
 2. [ ] Можно использовать такой код: `reload coolApi`
 3. [ ] Можно использовать такой код: `import sys `
-4. [ ] ``` 
+4. [ ] 
+       ``` 
        if 'coolApi' in sys.modules: 
               del sys.modules['coolApi']
                  import coolApi
+       ```
 
 ### 9. Для чего в языке Python используются так называемые «слабые» ссылки и где они описаны?
 
