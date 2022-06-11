@@ -9,7 +9,7 @@ _Всего было 100 вопросов и давалось 90 минут._
 * [Kubernetes and Docker](#kubernetes--docker)
 * [Базы данных](#базы-данных)
 * [UI/UX design](#uiux-интерфейсы)
-* [Cети(IP, TCP, HTTP, etc.](#сети-ip-http-tcp-etc)
+* [Cети(IP, TCP, HTTP, etc.)](#сети-ip-http-tcp-etc)
 * [CSS/JS](#cssjsdom)
 * [Рефактринг, оптимзация](#рефактринг-оптимзация)
 
