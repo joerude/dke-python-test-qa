@@ -1,0 +1,20 @@
+import requests
+
+response = requests.get('https://api.github.com/')
+
+print(response.text)
+print(type(response.text))
+print()
+print()
+print(response.json)
+print(type(response.json))
+print()
+print()
+print(response.content)
+print(type(response.content))
+print()
+print()
+print(response.json())
+print(type(response.json()))
+print()
+print()
